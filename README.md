@@ -1,9 +1,7 @@
 # checkpackage [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > a module to check if a module exists on npm registry or not.
 
->It's a command line utility build out of nodejs.
-
->I am making a http request from this application using a node module.
+>It's a command line utility build out of nodejs. I am making a http request from this application using a node module.
 
 ## Installation
 
