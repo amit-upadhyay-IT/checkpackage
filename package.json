@@ -1,6 +1,6 @@
 {
   "name": "checkpackage",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a module to check if a module exists on npm registry or not.",
   "homepage": "https://github.com/amit-upadhyay-IT/checkpackage",
   "author": {
