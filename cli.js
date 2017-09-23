@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 var meow = require('meow');
-var checkpackage = require('./lib/index.js');
+var checkpackage = require('./index.js');
 
 var cli = meow({
     help: [
