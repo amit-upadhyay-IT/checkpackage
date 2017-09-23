@@ -6,7 +6,7 @@
 ## Installation
 
 ```sh
-$ npm install --save checkpackage
+$ npm install -g checkpackage --save
 ```
 
 ## Usage
