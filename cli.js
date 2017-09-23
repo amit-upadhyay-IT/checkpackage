@@ -10,7 +10,7 @@ var cli = meow({
         '',
         'Example',
         '  checkpackage unicorn'
-    ].join('\n');
+    ].join('\n')
 });
 
 checkpackage(cli.input[0]);
