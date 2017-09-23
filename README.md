@@ -11,11 +11,17 @@ $ npm install --save checkpackage
 
 ## Usage
 
-```js
-const checkpackage = require('checkpackage');
-
-checkpackage('Rainbow');
+```cli
+$ checkpackage <pkg name>
 ```
+or
+
+```js
+var checkpackage = require('checkpackage');
+
+checkpackage('package_name');
+```
+
 ## License
 
 MIT © [Amit Upadhyay](https://github.com/amit-upadhyay-IT)
